@@ -1,0 +1,2 @@
+[Sat Feb 04 21:23:17 EST 2023][Admin][ACTION] | Task: Login | Description: User Admin has logged in to the system | Source: Core.Screens.Startup.LoginScreen -> Display
+[Sat Feb 04 21:23:17 EST 2023][Admin][ACTION] | Task: File Read | Description: File read from  src\Users\Admin\System\Log\EncryptedFiles.json successfully | Source: Library.DataHandler.FileHandler -> ReadJSON
